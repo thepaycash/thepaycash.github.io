@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="149px" height="25px" viewBox="0 0 149 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Untitled 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <text id="cash" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="21" font-weight="normal" letter-spacing="0.7" fill="#4B4B4B">
+                <tspan x="97" y="20">cash</tspan>
+            </text>
+            <path id="Line" d="M85.0368599,10.5 C85.1202047,10.5 85.202405,10.5194048 85.2769509,10.5566778 L85.2769509,10.5566778 L93.2031136,14.5197591 C93.4683108,14.6523577 93.5758032,14.974835 93.4432046,15.2400322 C93.391256,15.3439293 93.3070107,15.4281747 93.2031136,15.4801233 L93.2031136,15.4801233 L85.2769509,19.4432046 C85.0117537,19.5758032 84.6892764,19.4683108 84.5566778,19.2031136 C84.5194048,19.1285676 84.5,19.0463674 84.5,18.9630225 L84.5,18.9630225 L84.5,15.5 L76,15.5 C75.7238576,15.5 75.5,15.2761424 75.5,15 C75.5,14.7545401 75.6768752,14.5503916 75.9101244,14.5080557 L76,14.5 L84.5,14.5 L84.5,11.0368599 C84.5,10.7700103 84.6946919,10.5486335 84.9497784,10.5070266 Z" fill="#46CA36" fill-rule="nonzero"></path>
+            <text id="thepay" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="21" font-weight="normal" letter-spacing="0.7" fill="#4B4B4B">
+                <tspan x="0" y="20">thepay</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
